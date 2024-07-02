@@ -1,0 +1,26 @@
+
+table{
+    
+    height:20rem;
+    width:20rem;
+}
+.board{
+    position:relative;
+    
+    margin-left:3rem;
+    margin-top:5rem;
+    
+}
+td{
+    background-color:white;
+    border-radius:50%;
+}
+.green{
+    color:green;
+    font-size:3rem;
+
+}
+.black{
+    color:black;
+    font-size:3rem;
+}
